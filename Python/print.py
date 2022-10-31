@@ -1,0 +1,1 @@
+print("being good person")
